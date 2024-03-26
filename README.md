@@ -43,7 +43,7 @@ Em geral, um **requisito funcional** é uma funcionalidade específica que o sis
 
 ### **Tabela comparativa e o use case:** 
 
-#### **Use case:** 
+### **Use case:** 
 É um modelo que descreve como diferentes tipos de usuários interagem com o sistema para resolver um problema. Descreve as metas dos usuários, as interações entre os usuários e o sistema, bem como o comportamento necessário do sistema para satisfazer estas metas.
 
 ### **Tabela:**
